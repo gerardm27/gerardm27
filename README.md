@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **gerardm27@gmail.com**
+- 📫 Reach me at **gerardm27@gmail.com**
 
-- ⚡ Fun fact **I'm equally interested in Software and Space**
+- ⚡ Fun fact: **I'm equally interested in Software and Space**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
