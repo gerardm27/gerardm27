@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gerard</h1>
 <h3 align="center">A WIP full-stack developer and student from Spain</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gerardm27&label=Profile%20stalkers&color=66df5d&style=flat" alt="gerardm27" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gerardm27&label=Profile%20stalkers&color=66df5d&style=flat" alt="gerardm27" /> </p>
 
-<p align="center"> <a href="https://twitter.com/gerardaguacate" target="blank"><img src="https://img.shields.io/twitter/follow/gerardaguacate?logo=twitter&style=for-the-badge" alt="gerardaguacate" /></a> </p>
+<p align="left"> <a href="https://twitter.com/gerardaguacate" target="blank"><img src="https://img.shields.io/twitter/follow/gerardaguacate?logo=twitter&style=for-the-badge" alt="gerardaguacate" /></a> </p>
 
 - 🔭 I'm planning on **getting a telescope**
 
