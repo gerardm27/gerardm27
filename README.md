@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/gerardaguacate" target="blank"><img src="https://img.shields.io/twitter/follow/gerardaguacate?logo=twitter&style=for-the-badge" alt="gerardaguacate" /></a> </p>
 
-- 🔭 I'm extremely interested in Space and explore it with my StarSense Explorer DX130 - AZ
+- 🔭 I'm extremely interested in Space and I explore it with my StarSense Explorer DX130 - AZ
 
 - 🌱 I’m currently learning **backend development**
 
