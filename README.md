@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **anything**
 
-- ⚡ Fun fact: **I'm one of two directors at HackUPC, the biggest student hackathon in Europe. Ask me anything!**
+- ⚡ Fun fact: **I'm one of many organizers at HackUPC, the biggest student hackathon in Europe. Ask me anything!**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
